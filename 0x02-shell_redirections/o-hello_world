@@ -1,0 +1,3 @@
+#!/bin/bash
+lpr
+This is the file of Hello, World. It is second project of shell redirections
